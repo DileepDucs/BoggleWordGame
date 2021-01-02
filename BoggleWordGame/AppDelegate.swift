@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BoggleWordGame
 //
-//  Created by Amrita Jaiswal on 28/12/20.
+//  Created by Dileep Jaiswal on 28/12/20.
 //  Copyright © 2020 Dileep Jaiswal. All rights reserved.
 //
 

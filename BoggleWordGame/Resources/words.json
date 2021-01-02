@@ -1,0 +1,10 @@
+{
+    "words": [
+        {"list": ["EAGLE", "LARK", "CROW", "FOWL", "OWL"], "title": "List of Birds"},
+        {"list": ["APPLE", "PEACH", "KIWI", "FIG"], "title": "List of Fruits"},
+        {"list": ["BEAR", "LION", "CAT", "DOG"], "title": "List of Animals"},
+        {"list": ["RAT", "BAT", "TOY", "RED"], "title": "Easy"},
+        {"list": ["TIGER", "CALF", "HAWK", "BAT", "TOY"], "title": "Medium"},
+        {"list": ["SPIDER", "TIGER", "CALF", "LILY", "BLUE", "BAT"], "title": "Hard"}
+    ]
+}
